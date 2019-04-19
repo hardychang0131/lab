@@ -1,4 +1,5 @@
 #master
+##conflit
 
 #示範Git用的程式碼！
 
