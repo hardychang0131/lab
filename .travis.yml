@@ -29,7 +29,7 @@ deploy:
     secure: 42561d7f-c442-409e-a191-aec364c7eaa0
   app: lab400557105
   on:
-    repo: hardychang0131/lab1
+    repo: hardychang0131/lab400557105
   #Setting your heroku Procfile here!!!
   run:
     "web: gunicorn app_run:app"
